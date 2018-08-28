@@ -1,7 +1,5 @@
 import os
 
-
-
 def split_args(ui):
     i = 0
     j = 0
